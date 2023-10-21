@@ -10,7 +10,7 @@
 <img height="150" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamDeveloper1203&theme=gotham&show_icons=true&locale=en&layout=compact" alt="dreamDeveloper1203" />
+  <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamDeveloper1203&theme=gotham&show_icons=true&locale=en&layout=compact" alt="dreamDeveloper1203" />
 </p>
 </div>
 <div align="center">
