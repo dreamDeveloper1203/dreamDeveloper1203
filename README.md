@@ -2,12 +2,23 @@
 <h1 align="center">Hi 👋, I'm DreamDeveloper</h1>
 <h3 align="center">Senior Full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamDeveloper1203&label=Profile%20views&color=0e75b6&style=flat" alt="startverywell" /> </p>
-<div align="center" dir="auto">
-  <animated-image data-catalyst="" style="width: 600px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="500" data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" target="_blank">
-</animated-image>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamDeveloper1203&label=Profile%20views&color=0e75b6&style=flat" alt="dreamDeveloper1203" /> </p>
+<div align="center">
+
+<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+<img height="150" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+<img height="150" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+
+<p align="center">
+  <a href="https://github.com/bluecomet1994?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=bluecomet1994&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="BLUECOMET's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/bluecomet1994?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bluecomet1994&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="BLUECOMET's github-readme-streak-stats"/>
+  </a>
+</p>
+
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreamDeveloper1203" alt="dreamDeveloper1203" /></a> </p>
 
