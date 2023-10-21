@@ -11,11 +11,11 @@
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
 <p align="center">
-  <a href="https://github.com/bluecomet1994?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=bluecomet1994&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="BLUECOMET's github-readme-stats"/>
+  <a href="https://github.com/dreamDeveloper1203?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dreamDeveloper1203&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="BLUECOMET's github-readme-stats"/>
   </a>
-  <a href="https://github.com/bluecomet1994?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bluecomet1994&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="BLUECOMET's github-readme-streak-stats"/>
+  <a href="https://github.com/dreamDeveloper1203?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dreamDeveloper1203&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="dreamDeveloper1203's github-readme-streak-stats"/>
   </a>
 </p>
 
