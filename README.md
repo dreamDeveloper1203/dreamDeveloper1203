@@ -12,6 +12,8 @@
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamDeveloper1203&theme=gotham&show_icons=true&locale=en&layout=compact" alt="dreamDeveloper1203" />
 </p>
+</div>
+<div align="center">
 <p align="center">
   <a href="https://github.com/dreamDeveloper1203?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dreamDeveloper1203&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="BLUECOMET's github-readme-stats"/>
