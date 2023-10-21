@@ -10,7 +10,7 @@
 <img height="150" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 <p align="center">
-  <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamDeveloper1203&theme=gotham&show_icons=true&locale=en&layout=compact" alt="dreamDeveloper1203" />
+  <img align="left" width="100%" height="50" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamDeveloper1203&theme=gotham&show_icons=true&locale=en&layout=compact" alt="dreamDeveloper1203" />
 </p>
 </div>
 <div align="center">
@@ -24,8 +24,6 @@
 </p>
 
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreamDeveloper1203" alt="dreamDeveloper1203" /></a> </p>
-
 - 🌱 I’m currently learning **Golang and rust**
 
 - 👨‍💻 All of my projects are available at [https://startverywell.github.io/my-portfolio/)
