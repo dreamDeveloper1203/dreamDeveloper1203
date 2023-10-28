@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **react, vue, laravel**
 
-- 📫 How to reach me **startverywell@gmail.com**
+- 📫 How to reach me **dreamdeveloper482@gmail.com**
 
 - 📄 Know about my experiences [https://startverywell.github.io/my-portfolio/)
 
