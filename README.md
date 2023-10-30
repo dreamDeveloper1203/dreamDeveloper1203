@@ -13,9 +13,9 @@
   <img align="left" width="100%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamDeveloper1203&theme=gotham&show_icons=true&locale=en&layout=compact" alt="dreamDeveloper1203" />
 </p>
 </div>
-- 📫 How to reach me **dreamdeveloper482@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:dreamdeveloper482@gmail.com</h3>
 <p align="left">
 </p>
 
