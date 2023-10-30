@@ -24,17 +24,7 @@
 </p>
 
 </div>
-- 🌱 I’m currently learning **Golang and rust**
-
-- 👨‍💻 All of my projects are available at [https://startverywell.github.io/my-portfolio/)
-
-- 💬 Ask me about **react, vue, laravel**
-
 - 📫 How to reach me **dreamdeveloper482@gmail.com**
-
-- 📄 Know about my experiences [https://startverywell.github.io/my-portfolio/)
-
-- ⚡ Fun fact **Football, swimming, running**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
